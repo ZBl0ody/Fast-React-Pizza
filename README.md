@@ -31,18 +31,9 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Configuration (if applicable)
+## Configuration
 
 No additional configuration is required for this project.
-
-## Contribution Guidelines (if open-source)
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
 
 ## License
 
@@ -50,7 +41,7 @@ This project is licensed under the MIT License.
 
 ## Author & Acknowledgments
 
-Author: Your Name
+Author: Z_Bl0ody
 
 Acknowledgments:
 
@@ -58,4 +49,6 @@ Acknowledgments:
 
 ## Support & Contact
 
-For support, please contact [your-email@example.com](mailto:your-email@example.com).
+For support, please contact [eng.ahmedsameer0@gmail.com
+](mailto:eng.ahmedsameer0@gmail.com
+).
